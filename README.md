@@ -14,7 +14,6 @@
 
 **Command list**
 
-    git clone https://github.com/007sunilgautam/kanoon.git
     cd laravel-adminpanel
     cp .env.example .env
     composer install
